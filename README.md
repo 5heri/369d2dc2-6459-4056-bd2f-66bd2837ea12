@@ -37,7 +37,5 @@ The MVP serves it's purpose of allowing older users to chat with Lotti, ask ques
 - Retrieval-augmented generation (RAG): We could add a RAG pipeline to the chatbot to make it more context aware
 - UI/UX: the font types, font sizes and colors could be improved after user testing to make them more accessible and readible for older users
 - Adding a feature that keeps track of historial data or previous questions the user has asked
-- Quality of life features: making the whole thing a lot faster, adding a skeleton loading
+- Quality of life features: making the whole thing a lot faster
 
-
-  
