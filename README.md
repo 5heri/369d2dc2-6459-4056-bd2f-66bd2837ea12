@@ -7,7 +7,7 @@
 Run the development server:
 
 ```bash
-# first install any dependencies (node_modules is packaged so should not be a problem)
+# first install any dependencies
 npm install
 
 # run the dev server
