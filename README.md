@@ -18,7 +18,12 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Technologies Used
 
-- Typescript, React, Next.js, Tailwind.css, Upstash, GPT-4
+- Typescript
+- React
+- Next.js
+- Tailwind.css
+- Upstash
+- GPT-4
 
 ## Deployed on Vercel
 
